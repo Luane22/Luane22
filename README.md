@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋,eu sou a Luane</h1>
 <h3 align="center">Sou apaixonada por aprender coisas novas, amo trabalhar com Front-End e sou do Brasil</h3>
 
-- 🔭 Estou trabalhando atualmente **como Desenvolvedora Full-Stack**
+- 🔭 Estou trabalhando atualmente **como Software Engineer**
 
-- 🌱 Atualmente estou me especializando **em Full-Stack**
+- 🌱 Atualmente estou me especializando **em Artificial Intelligence and Cybersecurity**
 
-- 💬 Me pergunte sobre **JavaScript, TypeScript, Angular 8+, Reacty, JQuery, HTML, CSS, SQL, AWS, Python, Scrum, KPI's, Power BI, Excel, Negociação, Liderança, UX, UI, Copywriting**
+- 💬 Me pergunte sobre **JavaScript, TypeScript, Node.js, Angular 8+, Reacty, JQuery, HTML, CSS, SQL, AWS, Python, Django, Flask, K6, Jest, Vitest, S3, SQS, SNS, X-Ray, TRacer, Metrics, Kanban, Scrum, KPI's, Power BI, Excel, Negociação, Liderança, UX, UI, Copywriting**
 
 - 📫 Você me encontra **luane.md22@gmail.com**
 
